@@ -1,5 +1,5 @@
 
-#Cabezera del documentonuevo del README.md - Modificado desde develop
+#Cabezera del documentonuevo del README.md - Actualizado desde develop
 
 Github abduscan
 
