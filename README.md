@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 #Cabezera del documentonuevo del README.md - Actualizado desde develop
+=======
+#Cabezera del documentonuevo del README.md - Modificado desde develop otra vez
+>>>>>>> main
 
 Github abduscan
 
