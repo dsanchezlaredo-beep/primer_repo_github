@@ -1,9 +1,9 @@
 
-<<<<<<< HEAD
+HEAD
 #Cabezera del documentonuevo del README.md - Actualizado desde develop
-=======
+
 #Cabezera del documentonuevo del README.md - Modificado desde develop otra vez
->>>>>>> main
+main
 
 Github abduscan
 
@@ -13,7 +13,7 @@ Algo,algo
 
 Añadido en la rama develop
 
--Podemmos crear listas
-dnfd
+Podemmos crear listas
+
 
 
